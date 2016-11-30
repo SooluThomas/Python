@@ -6,7 +6,7 @@ addons:
   apt:
     packages:
       - python3
-script: pytest new.py
+script: pytest New.py
 before_install:
 - sudo apt-get update
 - sudo apt-get install python3
