@@ -1,4 +1,4 @@
 language: python
 php:
   - 2.7
-script: python new.py
+script: python test.py
